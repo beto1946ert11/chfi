@@ -1,2 +1,2 @@
 # chfi
-Repositorio de ejemplo para curso de forense
+Repositorio de ejemplo para cursos de forense
